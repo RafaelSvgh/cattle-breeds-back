@@ -1,0 +1,7 @@
+.env
+service-account.json
+uploads/
+imagenes/
+__pycache__/
+venv311/
+
